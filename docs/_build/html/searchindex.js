@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{"case":0,amaz:0,classroom:0,current:0,email:0,inform:0,invit:0,make:0,onli:0,send:0,specif:0,your:0},titles:["Welcome to ClassHeroes documentation!"],titleterms:{access:0,classhero:0,document:0,featur:0,get:0,welcom:0}})
